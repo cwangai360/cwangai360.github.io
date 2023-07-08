@@ -17,7 +17,7 @@
 
 ---
 
-### General Computational Analysis
+### Computational Data Analysis
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
