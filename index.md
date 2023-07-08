@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Project 1 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="100" height="100"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
