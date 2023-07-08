@@ -4,7 +4,7 @@
 
 ### Machine Learning
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
