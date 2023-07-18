@@ -1,4 +1,4 @@
-## Projects <img src="images/dummy_thumbnail.jpg?raw=true" width="100" height="100"/>
+## Projects
 
 ---
 
