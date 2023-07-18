@@ -2,7 +2,7 @@
 
 ---
 
-### Machine Learning
+### Machine Learning / Computational Data Analytics
 
 - [Decision Tree vs Random Forest](Email_Spam.pdf)
 - [Principal Component Analysis (PCA) for Visualization](PCA_visualization.pdf)
