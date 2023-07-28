@@ -1,5 +1,5 @@
-## Data Analyst/Machine Learning Enthusiast
-
+## Data Specialist/Machine Learning Enthusiast
+---
 ### Technical Skills
     Python, R, PySpark, Scala, SQL, PERL, JavaScript, C++
     Oracle, Teradata, MS SQL Server, HDFS
@@ -12,7 +12,6 @@
 
 - MS Advanced Analytics  @  Georgia Tech
 
----
 
 ### Machine Learning / Computational Data Analytics
 
@@ -32,10 +31,4 @@
 
   Stock Market prediction has to be one of most interesting applications of Machine Learning. This exercise is to explore the basic price movement. 
 
----
-
-
-
-
----
 
