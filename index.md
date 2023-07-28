@@ -1,12 +1,12 @@
 ## Data Specialist/Machine Learning Enthusiast
 ---
 ### Technical Skills
-    Python, R, PySpark, Scala, SQL, PERL, JavaScript, C++
-    Oracle, Teradata, MS SQL Server, HDFS
-    Informatica, DataStage, Ab Initio
-    GCP, AWS, Azure, Databricks
-    H2O.ai, DataRobot
-    MATLIB, Octave
+- Python, R, PySpark, Scala, SQL, PERL, JavaScript, C++
+- Oracle, Teradata, MS SQL Server, HDFS
+- Informatica, DataStage, Ab Initio
+- GCP, AWS, Azure, Databricks
+- H2O.ai, DataRobot
+- MATLIB, Octave
 
 ### Education
 
