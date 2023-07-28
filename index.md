@@ -15,21 +15,22 @@
 
 ### Machine Learning / Computational Data Analytics
 
-- [Stock Market Prediction](stock_market_prediction.pdf)
-
-  Stock Market Prediction is probably one of most popular first exercises in the quest of Machine Learning. This exercise is only to explore the basic price movement.
 
 - [Compressive Sensing](Compressive_Sensing.pdf)
 
   Some of us have been lucky enough to experience CT Scan (Computed Tomography Scan) machine with weird noise in the hospital. Do you know it is a Machine Learning application?
-  
+
+- [Stock Market Prediction](stock_market_prediction.pdf)
+
+  Stock Market Prediction is probably one of most popular first exercises in the quest of Machine Learning. This exercise is only to explore the basic price movement.
+
 - [Decision Tree vs Random Forest](Email_Spam.pdf)
 
   Comparison between Decision Tree (CART) and Random Forest (RF) model process and performance. Random Forest has considerably less steps, but not easy to understand how the internal emsemble technique works.
   
 - [Principal Component Analysis (PCA) for Visualization](PCA_visualization.pdf)
 
-  Principal Component Analysis (PCA) is a critical data transformation algorithm. This project will illustrate its application in data visualization. Learning data transformation techniques is definitely a light bulb moment personally.
+  Principal Component Analysis (PCA) is a critical data transformation algorithm. This exercise will illustrate its application in data visualization. Learning data transformation techniques is definitely a light bulb moment personally.
 
 
   
