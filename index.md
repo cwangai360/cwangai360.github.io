@@ -32,6 +32,9 @@
 
   Principal Component Analysis (PCA) is a critical data transformation algorithm. This exercise will illustrate its application in data visualization. Learning data transformation techniques is definitely a light bulb moment personally.
 
+- [Pi Estimation](pi_estimation.pdf)
+
+  Pi is a popular constant. This exercise is to demonstrate the power of random numbers.
 
   
 
