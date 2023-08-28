@@ -18,7 +18,7 @@
 
 - [Compressive Sensing](Compressive_Sensing.pdf)
 
-  Some of us have been lucky enough to experience CT Scan (Computed Tomography Scan) machine with weird noise in the hospital. Do you know it is a Machine Learning application?
+  Some may have experienced CT Scan (Computed Tomography Scan) machine at the doctor's office. Do you know it is a Machine Learning application?
 
 - [Stock Market Prediction](stock_market_prediction.pdf)
 
