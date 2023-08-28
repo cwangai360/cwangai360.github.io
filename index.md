@@ -34,7 +34,7 @@
 
 - [Pi Estimation](pi_estimation.pdf)
 
-  Pi is a popular constant. This exercise is to demonstrate the power of random numbers.
+  This simple yet powerful exercise demonstrated random number's application.
 
   
 
